@@ -1,5 +1,5 @@
 org: sruthie
-app: aws-python-flask-api-project
+app: aws-serverless-project
 service: serverless-flask
 
 plugins:
